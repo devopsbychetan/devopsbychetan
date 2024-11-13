@@ -9,7 +9,7 @@ Hi, i am Chetan Kumar Sahoo. Future Devops Engineer | Embracing AWS,Cloud **Auto
 - 🔭 I’m currently learning Deeening my skills in **AWS,DevOps Automation,and CI/CD pipelines**
   
 
-- 🌱 I’m currently learning Git
+  
   
 
 - ❓ Ask me about AWS Cloud basics,DevOps best practices,and CI/CD pipeline setup
