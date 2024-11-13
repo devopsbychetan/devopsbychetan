@@ -12,9 +12,8 @@ Hi, i am Chetan Kumar Sahoo. Future Devops Engineer | Embracing AWS,Cloud **Auto
   
   
 
-- ❓ Ask me about AWS Cloud basics,DevOps best practices,and CI/CD pipeline setup
-  
-
+- ❓ Ask me about AWS Cloud basics,DevOps best practices,and CI/CD pipeline setup 
+-     How to reach me sahoochetankumar53@gmail.com
 - ⚡ Fun fact: I use tabs over spaces  
   
 
