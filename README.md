@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Kumar Sahoo</h1>
 <h3 align="center">"Ambitious DevOps Engineer: Bridging Development & Operations for Seamless Automation and Scalable Infrastructure"</h3>
-https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsbychetan&label=Profile%20views&color=0e75b6&style=flat" alt="devopsbychetan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
