@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetan Kumar Sahoo</h1>
 <h3 align="center">"Ambitious DevOps Engineer: Bridging Development & Operations for Seamless Automation and Scalable Infrastructure"</h3>
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcode-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn&psig=AOvVaw10u2kuBPlEeuvLBh7FI_yY&ust=1731602287208000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCon5rf2YkDFQAAAAAdAAAAABAR
 - 🌱 I’m currently learning **CI/CD, Docker, Kubernetes, Infrastructure as Code, Cloud platforms (AWS), Automation, Monitoring, and DevOps best practices.**
 
 - 💬 Ask me about **AWS Cloud basics,DevOps best practices,and CI/CD pipeline setup**
