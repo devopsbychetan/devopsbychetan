@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Chetan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+Hi, i am Chetan Kumar Sahoo. Future Devops Engineer | Embracing AWS,Cloud **Automation**,and CI/CD
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently learning Deeening my skills in **AWS,DevOps Automation,and CI/CD pipelines**
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Git
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about AWS Cloud basics,DevOps best practices,and CI/CD pipeline setup
   
 
 - ⚡ Fun fact: I use tabs over spaces  
